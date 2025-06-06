@@ -10,3 +10,6 @@ npm run dev
 yarn dev
 ```
 
+<div align="center">
+  <img height="300" width="600" src="./public/Screenshot 2025-06-06 163115.png" />
+</div>
