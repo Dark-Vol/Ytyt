@@ -37,8 +37,8 @@ const CodeEditor: React.FC<Ace> = ({ dataState, data, value }: Ace) => {
           try {
             Function(data ? data : value)();
           } catch (err) {
-           console.log(err); 
-          }         
+            console.log(err);
+          }
         }}
         type="submit"
       >
